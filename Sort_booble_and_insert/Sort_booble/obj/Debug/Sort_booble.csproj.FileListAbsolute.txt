@@ -1,0 +1,18 @@
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\bin\Debug\Sort_booble.exe.config
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\bin\Debug\Sort_booble.exe
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\bin\Debug\Sort_booble.pdb
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\obj\Debug\Sort_booble.csprojResolveAssemblyReference.cache
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\obj\Debug\Sort_booble.Form1.resources
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\obj\Debug\Sort_booble.Properties.Resources.resources
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\obj\Debug\Sort_booble.csproj.GenerateResource.Cache
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\obj\Debug\Sort_booble.exe
+D:\GoogleDisk\Європейська школа програмістів\PRG\LZ02\Sort_booble\Sort_booble\obj\Debug\Sort_booble.pdb
+d:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\bin\Debug\Sort_booble.exe.config
+d:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\obj\Debug\Sort_booble.exe
+d:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\obj\Debug\Sort_booble.pdb
+D:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\obj\Debug\Sort_booble.csprojResolveAssemblyReference.cache
+D:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\obj\Debug\Sort_booble.Form1.resources
+D:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\obj\Debug\Sort_booble.Properties.Resources.resources
+D:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\obj\Debug\Sort_booble.csproj.GenerateResource.Cache
+D:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\bin\Debug\Sort_booble.exe
+D:\GoogleDisk\Європейська школа програмістів\Модуль 1\PRG\Sort_booble_and_insert\Sort_booble\bin\Debug\Sort_booble.pdb

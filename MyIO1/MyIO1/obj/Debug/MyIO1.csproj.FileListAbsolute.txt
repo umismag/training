@@ -1,0 +1,9 @@
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\obj\Debug\MyIO1.csprojResolveAssemblyReference.cache
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\obj\Debug\MyIO1.Form1.resources
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\obj\Debug\MyIO1.Properties.Resources.resources
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\obj\Debug\MyIO1.csproj.GenerateResource.Cache
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\bin\Debug\MyIO1.exe.config
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\bin\Debug\MyIO1.exe
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\bin\Debug\MyIO1.pdb
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\obj\Debug\MyIO1.exe
+D:\GoogleDisk\LAB\2017_Весняний семестр\Паралельні та розподілені обчислення\PRG\MyIO1\MyIO1\obj\Debug\MyIO1.pdb

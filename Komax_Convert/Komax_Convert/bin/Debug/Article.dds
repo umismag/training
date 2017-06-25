@@ -1,0 +1,1773 @@
+[DeleteArticle]
+  ArticleKey = 0.75_BI
+
+[NewArticle]
+      ArticleKey = 0.75_BI
+      NumberOfLeadSets = 16
+
+     [NewLeadSet1]
+         Name = "0   29"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   29",1
+         MarkingTextBegin = 80,"0   29",1
+         MarkingTextBegin = 130,"0   29",1
+         MarkingTextEndless = 100,"0   29",1
+         MarkingTextEnd = 30,"0   29",1
+         MarkingTextEnd = 80,"0   29",1
+         MarkingTextEnd = 130,"0   29",1
+
+     [NewLeadSet2]
+         Name = "0   13"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 300
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   13",1
+         MarkingTextBegin = 80,"0   13",1
+         MarkingTextBegin = 130,"0   13",1
+         MarkingTextEndless = 100,"0   13",1
+         MarkingTextEnd = 30,"0   13",1
+         MarkingTextEnd = 80,"0   13",1
+         MarkingTextEnd = 130,"0   13",1
+
+     [NewLeadSet3]
+         Name = "0   15"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 300
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   15",1
+         MarkingTextBegin = 80,"0   15",1
+         MarkingTextBegin = 130,"0   15",1
+         MarkingTextEndless = 100,"0   15",1
+         MarkingTextEnd = 30,"0   15",1
+         MarkingTextEnd = 80,"0   15",1
+         MarkingTextEnd = 130,"0   15",1
+
+     [NewLeadSet4]
+         Name = "0   18"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 300
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   18",1
+         MarkingTextBegin = 80,"0   18",1
+         MarkingTextBegin = 130,"0   18",1
+         MarkingTextEndless = 100,"0   18",1
+         MarkingTextEnd = 30,"0   18",1
+         MarkingTextEnd = 80,"0   18",1
+         MarkingTextEnd = 130,"0   18",1
+
+     [NewLeadSet5]
+         Name = "0   17"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 800
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   17",1
+         MarkingTextBegin = 80,"0   17",1
+         MarkingTextBegin = 130,"0   17",1
+         MarkingTextEndless = 100,"0   17",1
+         MarkingTextEnd = 30,"0   17",1
+         MarkingTextEnd = 80,"0   17",1
+         MarkingTextEnd = 130,"0   17",1
+
+     [NewLeadSet6]
+         Name = "0   24"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   24",1
+         MarkingTextBegin = 80,"0   24",1
+         MarkingTextBegin = 130,"0   24",1
+         MarkingTextEndless = 100,"0   24",1
+         MarkingTextEnd = 30,"0   24",1
+         MarkingTextEnd = 80,"0   24",1
+         MarkingTextEnd = 130,"0   24",1
+
+     [NewLeadSet7]
+         Name = "0   25"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   25",1
+         MarkingTextBegin = 80,"0   25",1
+         MarkingTextBegin = 130,"0   25",1
+         MarkingTextEndless = 100,"0   25",1
+         MarkingTextEnd = 30,"0   25",1
+         MarkingTextEnd = 80,"0   25",1
+         MarkingTextEnd = 130,"0   25",1
+
+     [NewLeadSet8]
+         Name = "0   28"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   28",1
+         MarkingTextBegin = 80,"0   28",1
+         MarkingTextBegin = 130,"0   28",1
+         MarkingTextEndless = 100,"0   28",1
+         MarkingTextEnd = 30,"0   28",1
+         MarkingTextEnd = 80,"0   28",1
+         MarkingTextEnd = 130,"0   28",1
+
+     [NewLeadSet9]
+         Name = "0   22"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   22",1
+         MarkingTextBegin = 80,"0   22",1
+         MarkingTextBegin = 130,"0   22",1
+         MarkingTextEndless = 100,"0   22",1
+         MarkingTextEnd = 30,"0   22",1
+         MarkingTextEnd = 80,"0   22",1
+         MarkingTextEnd = 130,"0   22",1
+
+     [NewLeadSet10]
+         Name = "0   23"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   23",1
+         MarkingTextBegin = 80,"0   23",1
+         MarkingTextBegin = 130,"0   23",1
+         MarkingTextEndless = 100,"0   23",1
+         MarkingTextEnd = 30,"0   23",1
+         MarkingTextEnd = 80,"0   23",1
+         MarkingTextEnd = 130,"0   23",1
+
+     [NewLeadSet11]
+         Name = "0   14"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   14",1
+         MarkingTextBegin = 80,"0   14",1
+         MarkingTextBegin = 130,"0   14",1
+         MarkingTextEndless = 100,"0   14",1
+         MarkingTextEnd = 30,"0   14",1
+         MarkingTextEnd = 80,"0   14",1
+         MarkingTextEnd = 130,"0   14",1
+
+     [NewLeadSet12]
+         Name = "0   26"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 1100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   26",1
+         MarkingTextBegin = 80,"0   26",1
+         MarkingTextBegin = 130,"0   26",1
+         MarkingTextEndless = 100,"0   26",1
+         MarkingTextEnd = 30,"0   26",1
+         MarkingTextEnd = 80,"0   26",1
+         MarkingTextEnd = 130,"0   26",1
+
+     [NewLeadSet13]
+         Name = "0   27"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 1100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   27",1
+         MarkingTextBegin = 80,"0   27",1
+         MarkingTextBegin = 130,"0   27",1
+         MarkingTextEndless = 100,"0   27",1
+         MarkingTextEnd = 30,"0   27",1
+         MarkingTextEnd = 80,"0   27",1
+         MarkingTextEnd = 130,"0   27",1
+
+     [NewLeadSet14]
+         Name = "0   21"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   21",1
+         MarkingTextBegin = 80,"0   21",1
+         MarkingTextBegin = 130,"0   21",1
+         MarkingTextEndless = 100,"0   21",1
+         MarkingTextEnd = 30,"0   21",1
+         MarkingTextEnd = 80,"0   21",1
+         MarkingTextEnd = 130,"0   21",1
+
+     [NewLeadSet15]
+         Name = "0   16"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 1300
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   16",1
+         MarkingTextBegin = 80,"0   16",1
+         MarkingTextBegin = 130,"0   16",1
+         MarkingTextEndless = 100,"0   16",1
+         MarkingTextEnd = 30,"0   16",1
+         MarkingTextEnd = 80,"0   16",1
+         MarkingTextEnd = 130,"0   16",1
+
+     [NewLeadSet16]
+         Name = "0   20"
+         WireKey = 0.75_BI_PVA_Proof_U_660
+         WireLength = 10000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"0   20",1
+         MarkingTextBegin = 80,"0   20",1
+         MarkingTextBegin = 130,"0   20",1
+         MarkingTextEndless = 100,"0   20",1
+         MarkingTextEnd = 30,"0   20",1
+         MarkingTextEnd = 80,"0   20",1
+         MarkingTextEnd = 130,"0   20",1
+
+
+
+[DeleteArticle]
+  ArticleKey = 0.75_WT
+
+[NewArticle]
+      ArticleKey = 0.75_WT
+      NumberOfLeadSets = 63
+
+     [NewLeadSet1]
+         Name = "112   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"112   1",1
+         MarkingTextBegin = 80,"112   1",1
+         MarkingTextBegin = 130,"112   1",1
+         MarkingTextEndless = 100,"112   1",1
+         MarkingTextEnd = 30,"112   1",1
+         MarkingTextEnd = 80,"112   1",1
+         MarkingTextEnd = 130,"112   1",1
+
+     [NewLeadSet2]
+         Name = "243   4"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   4",1
+         MarkingTextBegin = 80,"243   4",1
+         MarkingTextBegin = 130,"243   4",1
+         MarkingTextEndless = 100,"243   4",1
+         MarkingTextEnd = 30,"243   4",1
+         MarkingTextEnd = 80,"243   4",1
+         MarkingTextEnd = 130,"243   4",1
+
+     [NewLeadSet3]
+         Name = "243   7"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   7",1
+         MarkingTextBegin = 80,"243   7",1
+         MarkingTextBegin = 130,"243   7",1
+         MarkingTextEndless = 100,"243   7",1
+         MarkingTextEnd = 30,"243   7",1
+         MarkingTextEnd = 80,"243   7",1
+         MarkingTextEnd = 130,"243   7",1
+
+     [NewLeadSet4]
+         Name = "245   2"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"245   2",1
+         MarkingTextBegin = 80,"245   2",1
+         MarkingTextBegin = 130,"245   2",1
+         MarkingTextEndless = 100,"245   2",1
+         MarkingTextEnd = 30,"245   2",1
+         MarkingTextEnd = 80,"245   2",1
+         MarkingTextEnd = 130,"245   2",1
+
+     [NewLeadSet5]
+         Name = "243   5"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   5",1
+         MarkingTextBegin = 80,"243   5",1
+         MarkingTextBegin = 130,"243   5",1
+         MarkingTextEndless = 100,"243   5",1
+         MarkingTextEnd = 30,"243   5",1
+         MarkingTextEnd = 80,"243   5",1
+         MarkingTextEnd = 130,"243   5",1
+
+     [NewLeadSet6]
+         Name = "243   8"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   8",1
+         MarkingTextBegin = 80,"243   8",1
+         MarkingTextBegin = 130,"243   8",1
+         MarkingTextEndless = 100,"243   8",1
+         MarkingTextEnd = 30,"243   8",1
+         MarkingTextEnd = 80,"243   8",1
+         MarkingTextEnd = 130,"243   8",1
+
+     [NewLeadSet7]
+         Name = "587   2"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   2",1
+         MarkingTextBegin = 80,"587   2",1
+         MarkingTextBegin = 130,"587   2",1
+         MarkingTextEndless = 100,"587   2",1
+         MarkingTextEnd = 30,"587   2",1
+         MarkingTextEnd = 80,"587   2",1
+         MarkingTextEnd = 130,"587   2",1
+
+     [NewLeadSet8]
+         Name = "116    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"116    ",1
+         MarkingTextBegin = 80,"116    ",1
+         MarkingTextBegin = 130,"116    ",1
+         MarkingTextEndless = 100,"116    ",1
+         MarkingTextEnd = 30,"116    ",1
+         MarkingTextEnd = 80,"116    ",1
+         MarkingTextEnd = 130,"116    ",1
+
+     [NewLeadSet9]
+         Name = "117    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"117    ",1
+         MarkingTextBegin = 80,"117    ",1
+         MarkingTextBegin = 130,"117    ",1
+         MarkingTextEndless = 100,"117    ",1
+         MarkingTextEnd = 30,"117    ",1
+         MarkingTextEnd = 80,"117    ",1
+         MarkingTextEnd = 130,"117    ",1
+
+     [NewLeadSet10]
+         Name = "243   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   1",1
+         MarkingTextBegin = 80,"243   1",1
+         MarkingTextBegin = 130,"243   1",1
+         MarkingTextEndless = 100,"243   1",1
+         MarkingTextEnd = 30,"243   1",1
+         MarkingTextEnd = 80,"243   1",1
+         MarkingTextEnd = 130,"243   1",1
+
+     [NewLeadSet11]
+         Name = "244    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"244    ",1
+         MarkingTextBegin = 80,"244    ",1
+         MarkingTextBegin = 130,"244    ",1
+         MarkingTextEndless = 100,"244    ",1
+         MarkingTextEnd = 30,"244    ",1
+         MarkingTextEnd = 80,"244    ",1
+         MarkingTextEnd = 130,"244    ",1
+
+     [NewLeadSet12]
+         Name = "245    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"245    ",1
+         MarkingTextBegin = 80,"245    ",1
+         MarkingTextBegin = 130,"245    ",1
+         MarkingTextEndless = 100,"245    ",1
+         MarkingTextEnd = 30,"245    ",1
+         MarkingTextEnd = 80,"245    ",1
+         MarkingTextEnd = 130,"245    ",1
+
+     [NewLeadSet13]
+         Name = "91a    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"91a    ",1
+         MarkingTextBegin = 80,"91a    ",1
+         MarkingTextBegin = 130,"91a    ",1
+         MarkingTextEndless = 100,"91a    ",1
+         MarkingTextEnd = 30,"91a    ",1
+         MarkingTextEnd = 80,"91a    ",1
+         MarkingTextEnd = 130,"91a    ",1
+
+     [NewLeadSet14]
+         Name = "587   10"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 500
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   10",1
+         MarkingTextBegin = 80,"587   10",1
+         MarkingTextBegin = 130,"587   10",1
+         MarkingTextEndless = 100,"587   10",1
+         MarkingTextEnd = 30,"587   10",1
+         MarkingTextEnd = 80,"587   10",1
+         MarkingTextEnd = 130,"587   10",1
+
+     [NewLeadSet15]
+         Name = "91e    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 600
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"91e    ",1
+         MarkingTextBegin = 80,"91e    ",1
+         MarkingTextBegin = 130,"91e    ",1
+         MarkingTextEndless = 100,"91e    ",1
+         MarkingTextEnd = 30,"91e    ",1
+         MarkingTextEnd = 80,"91e    ",1
+         MarkingTextEnd = 130,"91e    ",1
+
+     [NewLeadSet16]
+         Name = "587    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 700
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587    ",1
+         MarkingTextBegin = 80,"587    ",1
+         MarkingTextBegin = 130,"587    ",1
+         MarkingTextEndless = 100,"587    ",1
+         MarkingTextEnd = 30,"587    ",1
+         MarkingTextEnd = 80,"587    ",1
+         MarkingTextEnd = 130,"587    ",1
+
+     [NewLeadSet17]
+         Name = "91a   2"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 800
+         StrippingLength = 6
+         PullOffLength = 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"91a   2",1
+         MarkingTextBegin = 80,"91a   2",1
+         MarkingTextBegin = 130,"91a   2",1
+         MarkingTextEndless = 100,"91a   2",1
+         MarkingTextEnd = 30,"91a   2",1
+         MarkingTextEnd = 80,"91a   2",1
+         MarkingTextEnd = 130,"91a   2",1
+
+     [NewLeadSet18]
+         Name = "91e   2"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 800
+         StrippingLength = 6
+         PullOffLength = 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"91e   2",1
+         MarkingTextBegin = 80,"91e   2",1
+         MarkingTextBegin = 130,"91e   2",1
+         MarkingTextEndless = 100,"91e   2",1
+         MarkingTextEnd = 30,"91e   2",1
+         MarkingTextEnd = 80,"91e   2",1
+         MarkingTextEnd = 130,"91e   2",1
+
+     [NewLeadSet19]
+         Name = "243   2"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 850
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   2",1
+         MarkingTextBegin = 80,"243   2",1
+         MarkingTextBegin = 130,"243   2",1
+         MarkingTextEndless = 100,"243   2",1
+         MarkingTextEnd = 30,"243   2",1
+         MarkingTextEnd = 80,"243   2",1
+         MarkingTextEnd = 130,"243   2",1
+
+     [NewLeadSet20]
+         Name = "243    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243    ",1
+         MarkingTextBegin = 80,"243    ",1
+         MarkingTextBegin = 130,"243    ",1
+         MarkingTextEndless = 100,"243    ",1
+         MarkingTextEnd = 30,"243    ",1
+         MarkingTextEnd = 80,"243    ",1
+         MarkingTextEnd = 130,"243    ",1
+
+     [NewLeadSet21]
+         Name = "243   3"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   3",1
+         MarkingTextBegin = 80,"243   3",1
+         MarkingTextBegin = 130,"243   3",1
+         MarkingTextEndless = 100,"243   3",1
+         MarkingTextEnd = 30,"243   3",1
+         MarkingTextEnd = 80,"243   3",1
+         MarkingTextEnd = 130,"243   3",1
+
+     [NewLeadSet22]
+         Name = "324   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"324   1",1
+         MarkingTextBegin = 80,"324   1",1
+         MarkingTextBegin = 130,"324   1",1
+         MarkingTextEndless = 100,"324   1",1
+         MarkingTextEnd = 30,"324   1",1
+         MarkingTextEnd = 80,"324   1",1
+         MarkingTextEnd = 130,"324   1",1
+
+     [NewLeadSet23]
+         Name = "570    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"570    ",1
+         MarkingTextBegin = 80,"570    ",1
+         MarkingTextBegin = 130,"570    ",1
+         MarkingTextEndless = 100,"570    ",1
+         MarkingTextEnd = 30,"570    ",1
+         MarkingTextEnd = 80,"570    ",1
+         MarkingTextEnd = 130,"570    ",1
+
+     [NewLeadSet24]
+         Name = "587   3"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   3",1
+         MarkingTextBegin = 80,"587   3",1
+         MarkingTextBegin = 130,"587   3",1
+         MarkingTextEndless = 100,"587   3",1
+         MarkingTextEnd = 30,"587   3",1
+         MarkingTextEnd = 80,"587   3",1
+         MarkingTextEnd = 130,"587   3",1
+
+     [NewLeadSet25]
+         Name = "587   7"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   7",1
+         MarkingTextBegin = 80,"587   7",1
+         MarkingTextBegin = 130,"587   7",1
+         MarkingTextEndless = 100,"587   7",1
+         MarkingTextEnd = 30,"587   7",1
+         MarkingTextEnd = 80,"587   7",1
+         MarkingTextEnd = 130,"587   7",1
+
+     [NewLeadSet26]
+         Name = "587   8"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   8",1
+         MarkingTextBegin = 80,"587   8",1
+         MarkingTextBegin = 130,"587   8",1
+         MarkingTextEndless = 100,"587   8",1
+         MarkingTextEnd = 30,"587   8",1
+         MarkingTextEnd = 80,"587   8",1
+         MarkingTextEnd = 130,"587   8",1
+
+     [NewLeadSet27]
+         Name = "12    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 940
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"12    ",1
+         MarkingTextBegin = 80,"12    ",1
+         MarkingTextBegin = 130,"12    ",1
+         MarkingTextEndless = 100,"12    ",1
+         MarkingTextEnd = 30,"12    ",1
+         MarkingTextEnd = 80,"12    ",1
+         MarkingTextEnd = 130,"12    ",1
+
+     [NewLeadSet28]
+         Name = "14    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 940
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"14    ",1
+         MarkingTextBegin = 80,"14    ",1
+         MarkingTextBegin = 130,"14    ",1
+         MarkingTextEndless = 100,"14    ",1
+         MarkingTextEnd = 30,"14    ",1
+         MarkingTextEnd = 80,"14    ",1
+         MarkingTextEnd = 130,"14    ",1
+
+     [NewLeadSet29]
+         Name = "14   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6
+         PullOffLength = 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"14   1",1
+         MarkingTextBegin = 80,"14   1",1
+         MarkingTextBegin = 130,"14   1",1
+         MarkingTextEndless = 100,"14   1",1
+         MarkingTextEnd = 30,"14   1",1
+         MarkingTextEnd = 80,"14   1",1
+         MarkingTextEnd = 130,"14   1",1
+
+     [NewLeadSet30]
+         Name = "312    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"312    ",1
+         MarkingTextBegin = 80,"312    ",1
+         MarkingTextBegin = 130,"312    ",1
+         MarkingTextEndless = 100,"312    ",1
+         MarkingTextEnd = 30,"312    ",1
+         MarkingTextEnd = 80,"312    ",1
+         MarkingTextEnd = 130,"312    ",1
+
+     [NewLeadSet31]
+         Name = "91a   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"91a   1",1
+         MarkingTextBegin = 80,"91a   1",1
+         MarkingTextBegin = 130,"91a   1",1
+         MarkingTextEndless = 100,"91a   1",1
+         MarkingTextEnd = 30,"91a   1",1
+         MarkingTextEnd = 80,"91a   1",1
+         MarkingTextEnd = 130,"91a   1",1
+
+     [NewLeadSet32]
+         Name = "91e   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"91e   1",1
+         MarkingTextBegin = 80,"91e   1",1
+         MarkingTextBegin = 130,"91e   1",1
+         MarkingTextEndless = 100,"91e   1",1
+         MarkingTextEnd = 30,"91e   1",1
+         MarkingTextEnd = 80,"91e   1",1
+         MarkingTextEnd = 130,"91e   1",1
+
+     [NewLeadSet33]
+         Name = "243   6"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"243   6",1
+         MarkingTextBegin = 80,"243   6",1
+         MarkingTextBegin = 130,"243   6",1
+         MarkingTextEndless = 100,"243   6",1
+         MarkingTextEnd = 30,"243   6",1
+         MarkingTextEnd = 80,"243   6",1
+         MarkingTextEnd = 130,"243   6",1
+
+     [NewLeadSet34]
+         Name = "245   4"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"245   4",1
+         MarkingTextBegin = 80,"245   4",1
+         MarkingTextBegin = 130,"245   4",1
+         MarkingTextEndless = 100,"245   4",1
+         MarkingTextEnd = 30,"245   4",1
+         MarkingTextEnd = 80,"245   4",1
+         MarkingTextEnd = 130,"245   4",1
+
+     [NewLeadSet35]
+         Name = "290   2"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"290   2",1
+         MarkingTextBegin = 80,"290   2",1
+         MarkingTextBegin = 130,"290   2",1
+         MarkingTextEndless = 100,"290   2",1
+         MarkingTextEnd = 30,"290   2",1
+         MarkingTextEnd = 80,"290   2",1
+         MarkingTextEnd = 130,"290   2",1
+
+     [NewLeadSet36]
+         Name = "335    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"335    ",1
+         MarkingTextBegin = 80,"335    ",1
+         MarkingTextBegin = 130,"335    ",1
+         MarkingTextEndless = 100,"335    ",1
+         MarkingTextEnd = 30,"335    ",1
+         MarkingTextEnd = 80,"335    ",1
+         MarkingTextEnd = 130,"335    ",1
+
+     [NewLeadSet37]
+         Name = "336    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"336    ",1
+         MarkingTextBegin = 80,"336    ",1
+         MarkingTextBegin = 130,"336    ",1
+         MarkingTextEndless = 100,"336    ",1
+         MarkingTextEnd = 30,"336    ",1
+         MarkingTextEnd = 80,"336    ",1
+         MarkingTextEnd = 130,"336    ",1
+
+     [NewLeadSet38]
+         Name = "587   4"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   4",1
+         MarkingTextBegin = 80,"587   4",1
+         MarkingTextBegin = 130,"587   4",1
+         MarkingTextEndless = 100,"587   4",1
+         MarkingTextEnd = 30,"587   4",1
+         MarkingTextEnd = 80,"587   4",1
+         MarkingTextEnd = 130,"587   4",1
+
+     [NewLeadSet39]
+         Name = "587   6"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   6",1
+         MarkingTextBegin = 80,"587   6",1
+         MarkingTextBegin = 130,"587   6",1
+         MarkingTextEndless = 100,"587   6",1
+         MarkingTextEnd = 30,"587   6",1
+         MarkingTextEnd = 80,"587   6",1
+         MarkingTextEnd = 130,"587   6",1
+
+     [NewLeadSet40]
+         Name = "112    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1050
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"112    ",1
+         MarkingTextBegin = 80,"112    ",1
+         MarkingTextBegin = 130,"112    ",1
+         MarkingTextEndless = 100,"112    ",1
+         MarkingTextEnd = 30,"112    ",1
+         MarkingTextEnd = 80,"112    ",1
+         MarkingTextEnd = 130,"112    ",1
+
+     [NewLeadSet41]
+         Name = "245   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1050
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"245   1",1
+         MarkingTextBegin = 80,"245   1",1
+         MarkingTextBegin = 130,"245   1",1
+         MarkingTextEndless = 100,"245   1",1
+         MarkingTextEnd = 30,"245   1",1
+         MarkingTextEnd = 80,"245   1",1
+         MarkingTextEnd = 130,"245   1",1
+
+     [NewLeadSet42]
+         Name = "321    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1050
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"321    ",1
+         MarkingTextBegin = 80,"321    ",1
+         MarkingTextBegin = 130,"321    ",1
+         MarkingTextEndless = 100,"321    ",1
+         MarkingTextEnd = 30,"321    ",1
+         MarkingTextEnd = 80,"321    ",1
+         MarkingTextEnd = 130,"321    ",1
+
+     [NewLeadSet43]
+         Name = "587   5"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   5",1
+         MarkingTextBegin = 80,"587   5",1
+         MarkingTextBegin = 130,"587   5",1
+         MarkingTextEndless = 100,"587   5",1
+         MarkingTextEnd = 30,"587   5",1
+         MarkingTextEnd = 80,"587   5",1
+         MarkingTextEnd = 130,"587   5",1
+
+     [NewLeadSet44]
+         Name = "113    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"113    ",1
+         MarkingTextBegin = 80,"113    ",1
+         MarkingTextBegin = 130,"113    ",1
+         MarkingTextEndless = 100,"113    ",1
+         MarkingTextEnd = 30,"113    ",1
+         MarkingTextEnd = 80,"113    ",1
+         MarkingTextEnd = 130,"113    ",1
+
+     [NewLeadSet45]
+         Name = "572    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"572    ",1
+         MarkingTextBegin = 80,"572    ",1
+         MarkingTextBegin = 130,"572    ",1
+         MarkingTextEndless = 100,"572    ",1
+         MarkingTextEnd = 30,"572    ",1
+         MarkingTextEnd = 80,"572    ",1
+         MarkingTextEnd = 130,"572    ",1
+
+     [NewLeadSet46]
+         Name = "245   3"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1200
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"245   3",1
+         MarkingTextBegin = 80,"245   3",1
+         MarkingTextBegin = 130,"245   3",1
+         MarkingTextEndless = 100,"245   3",1
+         MarkingTextEnd = 30,"245   3",1
+         MarkingTextEnd = 80,"245   3",1
+         MarkingTextEnd = 130,"245   3",1
+
+     [NewLeadSet47]
+         Name = "249    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1200
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"249    ",1
+         MarkingTextBegin = 80,"249    ",1
+         MarkingTextBegin = 130,"249    ",1
+         MarkingTextEndless = 100,"249    ",1
+         MarkingTextEnd = 30,"249    ",1
+         MarkingTextEnd = 80,"249    ",1
+         MarkingTextEnd = 130,"249    ",1
+
+     [NewLeadSet48]
+         Name = "319    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1250
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"319    ",1
+         MarkingTextBegin = 80,"319    ",1
+         MarkingTextBegin = 130,"319    ",1
+         MarkingTextEndless = 100,"319    ",1
+         MarkingTextEnd = 30,"319    ",1
+         MarkingTextEnd = 80,"319    ",1
+         MarkingTextEnd = 130,"319    ",1
+
+     [NewLeadSet49]
+         Name = "320    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1250
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"320    ",1
+         MarkingTextBegin = 80,"320    ",1
+         MarkingTextBegin = 130,"320    ",1
+         MarkingTextEndless = 100,"320    ",1
+         MarkingTextEnd = 30,"320    ",1
+         MarkingTextEnd = 80,"320    ",1
+         MarkingTextEnd = 130,"320    ",1
+
+     [NewLeadSet50]
+         Name = "587   9"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1250
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   9",1
+         MarkingTextBegin = 80,"587   9",1
+         MarkingTextBegin = 130,"587   9",1
+         MarkingTextEndless = 100,"587   9",1
+         MarkingTextEnd = 30,"587   9",1
+         MarkingTextEnd = 80,"587   9",1
+         MarkingTextEnd = 130,"587   9",1
+
+     [NewLeadSet51]
+         Name = "115    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1350
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"115    ",1
+         MarkingTextBegin = 80,"115    ",1
+         MarkingTextBegin = 130,"115    ",1
+         MarkingTextEndless = 100,"115    ",1
+         MarkingTextEnd = 30,"115    ",1
+         MarkingTextEnd = 80,"115    ",1
+         MarkingTextEnd = 130,"115    ",1
+
+     [NewLeadSet52]
+         Name = "92a    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1350
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"92a    ",1
+         MarkingTextBegin = 80,"92a    ",1
+         MarkingTextBegin = 130,"92a    ",1
+         MarkingTextEndless = 100,"92a    ",1
+         MarkingTextEnd = 30,"92a    ",1
+         MarkingTextEnd = 80,"92a    ",1
+         MarkingTextEnd = 130,"92a    ",1
+
+     [NewLeadSet53]
+         Name = "92e    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1350
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"92e    ",1
+         MarkingTextBegin = 80,"92e    ",1
+         MarkingTextBegin = 130,"92e    ",1
+         MarkingTextEndless = 100,"92e    ",1
+         MarkingTextEnd = 30,"92e    ",1
+         MarkingTextEnd = 80,"92e    ",1
+         MarkingTextEnd = 130,"92e    ",1
+
+     [NewLeadSet54]
+         Name = "324    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1550
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"324    ",1
+         MarkingTextBegin = 80,"324    ",1
+         MarkingTextBegin = 130,"324    ",1
+         MarkingTextEndless = 100,"324    ",1
+         MarkingTextEnd = 30,"324    ",1
+         MarkingTextEnd = 80,"324    ",1
+         MarkingTextEnd = 130,"324    ",1
+
+     [NewLeadSet55]
+         Name = "570   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1650
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"570   1",1
+         MarkingTextBegin = 80,"570   1",1
+         MarkingTextBegin = 130,"570   1",1
+         MarkingTextEndless = 100,"570   1",1
+         MarkingTextEnd = 30,"570   1",1
+         MarkingTextEnd = 80,"570   1",1
+         MarkingTextEnd = 130,"570   1",1
+
+     [NewLeadSet56]
+         Name = "113   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"113   1",1
+         MarkingTextBegin = 80,"113   1",1
+         MarkingTextBegin = 130,"113   1",1
+         MarkingTextEndless = 100,"113   1",1
+         MarkingTextEnd = 30,"113   1",1
+         MarkingTextEnd = 80,"113   1",1
+         MarkingTextEnd = 130,"113   1",1
+
+     [NewLeadSet57]
+         Name = "249   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"249   1",1
+         MarkingTextBegin = 80,"249   1",1
+         MarkingTextBegin = 130,"249   1",1
+         MarkingTextEndless = 100,"249   1",1
+         MarkingTextEnd = 30,"249   1",1
+         MarkingTextEnd = 80,"249   1",1
+         MarkingTextEnd = 130,"249   1",1
+
+     [NewLeadSet58]
+         Name = "587   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"587   1",1
+         MarkingTextBegin = 80,"587   1",1
+         MarkingTextBegin = 130,"587   1",1
+         MarkingTextEndless = 100,"587   1",1
+         MarkingTextEnd = 30,"587   1",1
+         MarkingTextEnd = 80,"587   1",1
+         MarkingTextEnd = 130,"587   1",1
+
+     [NewLeadSet59]
+         Name = "319   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1800
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"319   1",1
+         MarkingTextBegin = 80,"319   1",1
+         MarkingTextBegin = 130,"319   1",1
+         MarkingTextEndless = 100,"319   1",1
+         MarkingTextEnd = 30,"319   1",1
+         MarkingTextEnd = 80,"319   1",1
+         MarkingTextEnd = 130,"319   1",1
+
+     [NewLeadSet60]
+         Name = "320   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1800
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"320   1",1
+         MarkingTextBegin = 80,"320   1",1
+         MarkingTextBegin = 130,"320   1",1
+         MarkingTextEndless = 100,"320   1",1
+         MarkingTextEnd = 30,"320   1",1
+         MarkingTextEnd = 80,"320   1",1
+         MarkingTextEnd = 130,"320   1",1
+
+     [NewLeadSet61]
+         Name = "115   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 1900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"115   1",1
+         MarkingTextBegin = 80,"115   1",1
+         MarkingTextBegin = 130,"115   1",1
+         MarkingTextEndless = 100,"115   1",1
+         MarkingTextEnd = 30,"115   1",1
+         MarkingTextEnd = 80,"115   1",1
+         MarkingTextEnd = 130,"115   1",1
+
+     [NewLeadSet62]
+         Name = "244   1"
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 2050
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"244   1",1
+         MarkingTextBegin = 80,"244   1",1
+         MarkingTextBegin = 130,"244   1",1
+         MarkingTextEndless = 100,"244   1",1
+         MarkingTextEnd = 30,"244   1",1
+         MarkingTextEnd = 80,"244   1",1
+         MarkingTextEnd = 130,"244   1",1
+
+     [NewLeadSet63]
+         Name = "150    "
+         WireKey = 0.75_WT_PVA_Proof_U_660
+         WireLength = 2520
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"150    ",1
+         MarkingTextBegin = 80,"150    ",1
+         MarkingTextBegin = 130,"150    ",1
+         MarkingTextEndless = 100,"150    ",1
+         MarkingTextEnd = 30,"150    ",1
+         MarkingTextEnd = 80,"150    ",1
+         MarkingTextEnd = 130,"150    ",1
+
+
+
+[DeleteArticle]
+  ArticleKey = 1_WT
+
+[NewArticle]
+      ArticleKey = 1_WT
+      NumberOfLeadSets = 11
+
+     [NewLeadSet1]
+         Name = "300   2"
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"300   2",1
+         MarkingTextBegin = 80,"300   2",1
+         MarkingTextBegin = 130,"300   2",1
+         MarkingTextEndless = 100,"300   2",1
+         MarkingTextEnd = 30,"300   2",1
+         MarkingTextEnd = 80,"300   2",1
+         MarkingTextEnd = 130,"300   2",1
+
+     [NewLeadSet2]
+         Name = "301   3"
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 150
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"301   3",1
+         MarkingTextBegin = 80,"301   3",1
+         MarkingTextBegin = 130,"301   3",1
+         MarkingTextEndless = 100,"301   3",1
+         MarkingTextEnd = 30,"301   3",1
+         MarkingTextEnd = 80,"301   3",1
+         MarkingTextEnd = 130,"301   3",1
+
+     [NewLeadSet3]
+         Name = "300    "
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 700
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"300    ",1
+         MarkingTextBegin = 80,"300    ",1
+         MarkingTextBegin = 130,"300    ",1
+         MarkingTextEndless = 100,"300    ",1
+         MarkingTextEnd = 30,"300    ",1
+         MarkingTextEnd = 80,"300    ",1
+         MarkingTextEnd = 130,"300    ",1
+
+     [NewLeadSet4]
+         Name = "315    "
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 850
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"315    ",1
+         MarkingTextBegin = 80,"315    ",1
+         MarkingTextBegin = 130,"315    ",1
+         MarkingTextEndless = 100,"315    ",1
+         MarkingTextEnd = 30,"315    ",1
+         MarkingTextEnd = 80,"315    ",1
+         MarkingTextEnd = 130,"315    ",1
+
+     [NewLeadSet5]
+         Name = "300   1"
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 860
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"300   1",1
+         MarkingTextBegin = 80,"300   1",1
+         MarkingTextBegin = 130,"300   1",1
+         MarkingTextEndless = 100,"300   1",1
+         MarkingTextEnd = 30,"300   1",1
+         MarkingTextEnd = 80,"300   1",1
+         MarkingTextEnd = 130,"300   1",1
+
+     [NewLeadSet6]
+         Name = "327   1"
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"327   1",1
+         MarkingTextBegin = 80,"327   1",1
+         MarkingTextBegin = 130,"327   1",1
+         MarkingTextEndless = 100,"327   1",1
+         MarkingTextEnd = 30,"327   1",1
+         MarkingTextEnd = 80,"327   1",1
+         MarkingTextEnd = 130,"327   1",1
+
+     [NewLeadSet7]
+         Name = "290   1"
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"290   1",1
+         MarkingTextBegin = 80,"290   1",1
+         MarkingTextBegin = 130,"290   1",1
+         MarkingTextEndless = 100,"290   1",1
+         MarkingTextEnd = 30,"290   1",1
+         MarkingTextEnd = 80,"290   1",1
+         MarkingTextEnd = 130,"290   1",1
+
+     [NewLeadSet8]
+         Name = "329    "
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"329    ",1
+         MarkingTextBegin = 80,"329    ",1
+         MarkingTextBegin = 130,"329    ",1
+         MarkingTextEndless = 100,"329    ",1
+         MarkingTextEnd = 30,"329    ",1
+         MarkingTextEnd = 80,"329    ",1
+         MarkingTextEnd = 130,"329    ",1
+
+     [NewLeadSet9]
+         Name = "290    "
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 1400
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"290    ",1
+         MarkingTextBegin = 80,"290    ",1
+         MarkingTextBegin = 130,"290    ",1
+         MarkingTextEndless = 100,"290    ",1
+         MarkingTextEnd = 30,"290    ",1
+         MarkingTextEnd = 80,"290    ",1
+         MarkingTextEnd = 130,"290    ",1
+
+     [NewLeadSet10]
+         Name = "327    "
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 1610
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"327    ",1
+         MarkingTextBegin = 80,"327    ",1
+         MarkingTextBegin = 130,"327    ",1
+         MarkingTextEndless = 100,"327    ",1
+         MarkingTextEnd = 30,"327    ",1
+         MarkingTextEnd = 80,"327    ",1
+         MarkingTextEnd = 130,"327    ",1
+
+     [NewLeadSet11]
+         Name = "328    "
+         WireKey = 1_WT_PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"328    ",1
+         MarkingTextBegin = 80,"328    ",1
+         MarkingTextBegin = 130,"328    ",1
+         MarkingTextEndless = 100,"328    ",1
+         MarkingTextEnd = 30,"328    ",1
+         MarkingTextEnd = 80,"328    ",1
+         MarkingTextEnd = 130,"328    ",1
+
+
+
+[DeleteArticle]
+  ArticleKey = 1.5_WT
+
+[NewArticle]
+      ArticleKey = 1.5_WT
+      NumberOfLeadSets = 3
+
+     [NewLeadSet1]
+         Name = "301   2"
+         WireKey = 1.5_WT_PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"301   2",1
+         MarkingTextBegin = 80,"301   2",1
+         MarkingTextBegin = 130,"301   2",1
+         MarkingTextEndless = 100,"301   2",1
+         MarkingTextEnd = 30,"301   2",1
+         MarkingTextEnd = 80,"301   2",1
+         MarkingTextEnd = 130,"301   2",1
+
+     [NewLeadSet2]
+         Name = "333    "
+         WireKey = 1.5_WT_PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"333    ",1
+         MarkingTextBegin = 80,"333    ",1
+         MarkingTextBegin = 130,"333    ",1
+         MarkingTextEndless = 100,"333    ",1
+         MarkingTextEnd = 30,"333    ",1
+         MarkingTextEnd = 80,"333    ",1
+         MarkingTextEnd = 130,"333    ",1
+
+     [NewLeadSet3]
+         Name = "330    "
+         WireKey = 1.5_WT_PVA_Proof_U_660
+         WireLength = 1460
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"330    ",1
+         MarkingTextBegin = 80,"330    ",1
+         MarkingTextBegin = 130,"330    ",1
+         MarkingTextEndless = 100,"330    ",1
+         MarkingTextEnd = 30,"330    ",1
+         MarkingTextEnd = 80,"330    ",1
+         MarkingTextEnd = 130,"330    ",1
+
+
+
+[DeleteArticle]
+  ArticleKey = 2.5_WT
+
+[NewArticle]
+      ArticleKey = 2.5_WT
+      NumberOfLeadSets = 3
+
+     [NewLeadSet1]
+         Name = "301   1"
+         WireKey = 2.5_WT_PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"301   1",1
+         MarkingTextBegin = 80,"301   1",1
+         MarkingTextBegin = 130,"301   1",1
+         MarkingTextEndless = 100,"301   1",1
+         MarkingTextEnd = 30,"301   1",1
+         MarkingTextEnd = 80,"301   1",1
+         MarkingTextEnd = 130,"301   1",1
+
+     [NewLeadSet2]
+         Name = "301    "
+         WireKey = 2.5_WT_PVA_Proof_U_660
+         WireLength = 860
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"301    ",1
+         MarkingTextBegin = 80,"301    ",1
+         MarkingTextBegin = 130,"301    ",1
+         MarkingTextEndless = 100,"301    ",1
+         MarkingTextEnd = 30,"301    ",1
+         MarkingTextEnd = 80,"301    ",1
+         MarkingTextEnd = 130,"301    ",1
+
+     [NewLeadSet3]
+         Name = "331    "
+         WireKey = 2.5_WT_PVA_Proof_U_660
+         WireLength = 860
+         StrippingLength = 6, 6
+         PullOffLength = 2, 2
+         Pieces = 100
+         FontKey = 5x5
+
+     [NewMarkingTextWire1-2]
+         MarkingTextBegin = 30,"331    ",1
+         MarkingTextBegin = 80,"331    ",1
+         MarkingTextBegin = 130,"331    ",1
+         MarkingTextEndless = 100,"331    ",1
+         MarkingTextEnd = 30,"331    ",1
+         MarkingTextEnd = 80,"331    ",1
+         MarkingTextEnd = 130,"331    ",1
+
+
+

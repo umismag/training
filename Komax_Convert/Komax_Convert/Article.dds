@@ -1,0 +1,803 @@
+[DeleteArticle]
+  ArticleKey = 0.75G
+
+[NewArticle]
+      ArticleKey = 0.75G
+      NumberOfLeadSets = 16
+
+     [NewLeadSet1]
+         Name = "0   16"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 1300
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet2]
+         Name = "0   1"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet3]
+         Name = "0   6"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 1100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet4]
+         Name = "0   7"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 1100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet5]
+         Name = "0   14"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet6]
+         Name = "0   3"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet7]
+         Name = "0   2"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet8]
+         Name = "0   8"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet9]
+         Name = "0   4"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet10]
+         Name = "0   5"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet11]
+         Name = "0   17"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 800
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet12]
+         Name = "0   "
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 500
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet13]
+         Name = "0   18"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 300
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet14]
+         Name = "0   13"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 300
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet15]
+         Name = "0   15"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 300
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet16]
+         Name = "0   9"
+         WireKey = 0,75_G__PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+[DeleteArticle]
+  ArticleKey = 0.75B
+
+[NewArticle]
+      ArticleKey = 0.75B
+      NumberOfLeadSets = 63
+
+     [NewLeadSet1]
+         Name = "150    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 2520
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet2]
+         Name = "244   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 2050
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet3]
+         Name = "115   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet4]
+         Name = "319   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1800
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet5]
+         Name = "320   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1800
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet6]
+         Name = "249   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet7]
+         Name = "113   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet8]
+         Name = "587   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet9]
+         Name = "570   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1650
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet10]
+         Name = "324    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1550
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet11]
+         Name = "115    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1350
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet12]
+         Name = "92a    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1350
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet13]
+         Name = "92e    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1350
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet14]
+         Name = "319    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1250
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet15]
+         Name = "587   9"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1250
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet16]
+         Name = "320    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1250
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet17]
+         Name = "249    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1200
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet18]
+         Name = "245   3"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1200
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet19]
+         Name = "572    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet20]
+         Name = "113    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet21]
+         Name = "587   5"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet22]
+         Name = "112    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1050
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet23]
+         Name = "321    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1050
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet24]
+         Name = "245   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1050
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet25]
+         Name = "335    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet26]
+         Name = "245   4"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet27]
+         Name = "290   2"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet28]
+         Name = "587   6"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet29]
+         Name = "336    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet30]
+         Name = "243   6"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet31]
+         Name = "587   4"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet32]
+         Name = "91e   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet33]
+         Name = "312    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet34]
+         Name = "14   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6, 
+         PullOffLength = 2, 
+         Pieces = 1
+
+     [NewLeadSet35]
+         Name = "91a   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 950
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet36]
+         Name = "12    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 940
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet37]
+         Name = "14    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 940
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet38]
+         Name = "243   3"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet39]
+         Name = "587   8"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet40]
+         Name = "324   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet41]
+         Name = "587   3"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet42]
+         Name = "587   7"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet43]
+         Name = "570    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet44]
+         Name = "243    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet45]
+         Name = "243   2"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 850
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet46]
+         Name = "91e   2"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 800
+         StrippingLength = 6, 
+         PullOffLength = 2, 
+         Pieces = 1
+
+     [NewLeadSet47]
+         Name = "91a   2"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 800
+         StrippingLength = 6, 
+         PullOffLength = 2, 
+         Pieces = 1
+
+     [NewLeadSet48]
+         Name = "587    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 700
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet49]
+         Name = "91e    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 600
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet50]
+         Name = "587   10"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 500
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet51]
+         Name = "116    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet52]
+         Name = "117    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet53]
+         Name = "243   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet54]
+         Name = "245    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet55]
+         Name = "244    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet56]
+         Name = "91a    "
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 400
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet57]
+         Name = "587   2"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet58]
+         Name = "243   8"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet59]
+         Name = "243   5"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 200
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet60]
+         Name = "245   2"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet61]
+         Name = "112   1"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet62]
+         Name = "243   4"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet63]
+         Name = "243   7"
+         WireKey = 0,75_B__PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+[DeleteArticle]
+  ArticleKey = 1B
+
+[NewArticle]
+      ArticleKey = 1B
+      NumberOfLeadSets = 11
+
+     [NewLeadSet1]
+         Name = "328    "
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 1700
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet2]
+         Name = "327    "
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 1610
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet3]
+         Name = "290    "
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 1400
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet4]
+         Name = "329    "
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 1150
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet5]
+         Name = "290   1"
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet6]
+         Name = "327   1"
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 900
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet7]
+         Name = "300   1"
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 860
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet8]
+         Name = "315    "
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 850
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet9]
+         Name = "300    "
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 700
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet10]
+         Name = "301   3"
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 150
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet11]
+         Name = "300   2"
+         WireKey = 1_B__PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+[DeleteArticle]
+  ArticleKey = 2.5B
+
+[NewArticle]
+      ArticleKey = 2.5B
+      NumberOfLeadSets = 3
+
+     [NewLeadSet1]
+         Name = "331    "
+         WireKey = 2,5_B__PVA_Proof_U_660
+         WireLength = 860
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet2]
+         Name = "301    "
+         WireKey = 2,5_B__PVA_Proof_U_660
+         WireLength = 860
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet3]
+         Name = "301   1"
+         WireKey = 2,5_B__PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+[DeleteArticle]
+  ArticleKey = 1.5B
+
+[NewArticle]
+      ArticleKey = 1.5B
+      NumberOfLeadSets = 3
+
+     [NewLeadSet1]
+         Name = "330    "
+         WireKey = 1,5_B__PVA_Proof_U_660
+         WireLength = 1460
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet2]
+         Name = "333    "
+         WireKey = 1,5_B__PVA_Proof_U_660
+         WireLength = 1000
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+
+     [NewLeadSet3]
+         Name = "301   2"
+         WireKey = 1,5_B__PVA_Proof_U_660
+         WireLength = 100
+         StrippingLength = 6,6
+         PullOffLength = 2,2
+         Pieces = 1
+

@@ -1,0 +1,9 @@
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\bin\Debug\Image_Countour.exe.config
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\bin\Debug\Image_Countour.exe
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\bin\Debug\Image_Countour.pdb
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\obj\Debug\Image_Countour.csprojResolveAssemblyReference.cache
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\obj\Debug\Image_Countour.Form1.resources
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\obj\Debug\Image_Countour.Properties.Resources.resources
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\obj\Debug\Image_Countour.csproj.GenerateResource.Cache
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\obj\Debug\Image_Countour.exe
+D:\MyDoc\Visual Studio 2015\Projects\ImageProcessing\Image_Countour\Image_Countour\obj\Debug\Image_Countour.pdb

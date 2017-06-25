@@ -1,0 +1,13 @@
+E:\Komax\Project\Komax_Convert\Komax_Convert\bin\Debug\Komax_Convert.exe.config
+E:\Komax\Project\Komax_Convert\Komax_Convert\bin\Debug\Komax_Convert.exe
+E:\Komax\Project\Komax_Convert\Komax_Convert\bin\Debug\Komax_Convert.pdb
+E:\Komax\Project\Komax_Convert\Komax_Convert\bin\Debug\Microsoft.Office.Client.Education.dll
+E:\Komax\Project\Komax_Convert\Komax_Convert\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Komax_Convert.csprojResolveAssemblyReference.cache
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Interop.ExcelAddin_PHLib.dll
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Komax_Convert.csproj.ResolveComReference.cache
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Komax_Convert.Form1.resources
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Komax_Convert.Properties.Resources.resources
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Komax_Convert.csproj.GenerateResource.Cache
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Komax_Convert.exe
+E:\Komax\Project\Komax_Convert\Komax_Convert\obj\Debug\Komax_Convert.pdb
